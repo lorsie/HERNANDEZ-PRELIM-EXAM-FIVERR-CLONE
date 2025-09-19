@@ -11,7 +11,7 @@
   <style>
     body {
       font-family: "Arial";
-      background-image: url("https://images.unsplash.com/photo-1614850523011-8f49ffc73908?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+      background-image: url("https://i.pinimg.com/736x/e7/73/e4/e773e417a58298ca2b215cd4b301a4a2.jpg");
     }
   </style>
   <title>Hello, world!</title>
