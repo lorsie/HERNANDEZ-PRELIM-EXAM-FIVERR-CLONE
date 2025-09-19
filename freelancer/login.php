@@ -13,7 +13,7 @@
     <style>
       body {
         font-family: "Arial";
-        background-image: url("https://images.unsplash.com/photo-1588420343728-7411f4c87441?q=80&w=1112&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+        background-image: url("https://i.pinimg.com/736x/14/9d/5a/149d5a623ac8e77d92ca432b7f46b8c6.jpg");
       }
     </style>
     <title>Hello, world!</title>
